@@ -19,7 +19,7 @@ pip install streamlit pandas python-pptx
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/whos-who-document-generator.git
+git clone https://github.com/Mr-StraightFs/Pttx_powerpoint_automation_with_Python.git
 ```
 ## Navigate to the project directory:
 ```bash
